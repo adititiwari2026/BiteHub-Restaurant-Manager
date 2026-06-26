@@ -1,0 +1,146 @@
+[
+    {
+        "item_name": "Paneer Tikka",
+        "quantity": 50
+    },
+    {
+        "item_name": "Chicken 65",
+        "quantity": 46
+    },
+    {
+        "item_name": "Spring Rolls",
+        "quantity": 50
+    },
+    {
+        "item_name": "Paneer Butter Masala",
+        "quantity": 44
+    },
+    {
+        "item_name": "Kadhai Paneer",
+        "quantity": 50
+    },
+    {
+        "item_name": "Butter Chicken",
+        "quantity": 50
+    },
+    {
+        "item_name": "Dal Makhani",
+        "quantity": 50
+    },
+    {
+        "item_name": "Mix Veg",
+        "quantity": 50
+    },
+    {
+        "item_name": "Malai Kofta",
+        "quantity": 50
+    },
+    {
+        "item_name": "Veg Hyderabadi Biryani",
+        "quantity": 50
+    },
+    {
+        "item_name": "Chicken Biryani",
+        "quantity": 50
+    },
+    {
+        "item_name": "Butter Naan",
+        "quantity": 100
+    },
+    {
+        "item_name": "Garlic Naan",
+        "quantity": 100
+    },
+    {
+        "item_name": "Tandoori Roti",
+        "quantity": 100
+    },
+    {
+        "item_name": "Lachha Paratha",
+        "quantity": 100
+    },
+    {
+        "item_name": "Jeera Rice",
+        "quantity": 50
+    },
+    {
+        "item_name": "Steamed Rice",
+        "quantity": 50
+    },
+    {
+        "item_name": "Veg Noodles",
+        "quantity": 50
+    },
+    {
+        "item_name": "Chilli Paneer",
+        "quantity": 50
+    },
+    {
+        "item_name": "Manchurian Dry",
+        "quantity": 50
+    },
+    {
+        "item_name": "Premium Veg Combo",
+        "quantity": 50
+    },
+    {
+        "item_name": "Premium Non-Veg Combo",
+        "quantity": 50
+    },
+    {
+        "item_name": "Royal Veg Thali",
+        "quantity": 50
+    },
+    {
+        "item_name": "Royal Non-Veg Thali",
+        "quantity": 50
+    },
+    {
+        "item_name": "Masala Chai",
+        "quantity": 50
+    },
+    {
+        "item_name": "Cold Coffee",
+        "quantity": 50
+    },
+    {
+        "item_name": "Coca Cola (300ml)",
+        "quantity": 50
+    },
+    {
+        "item_name": "Sprite (300ml)",
+        "quantity": 50
+    },
+    {
+        "item_name": "Premium Mineral Water (1L)",
+        "quantity": 50
+    },
+    {
+        "item_name": "Sparkling Water (500ml)",
+        "quantity": 50
+    },
+    {
+        "item_name": "Vanilla Bean Ice Cream",
+        "quantity": 50
+    },
+    {
+        "item_name": "Belgian Chocolate Ice Cream",
+        "quantity": 50
+    },
+    {
+        "item_name": "Strawberry Gelato",
+        "quantity": 50
+    },
+    {
+        "item_name": "Gulab Jamun (2 pcs)",
+        "quantity": 50
+    },
+    {
+        "item_name": "Ras Malai (2 pcs)",
+        "quantity": 45
+    },
+    {
+        "item_name": "Hakka Noodles",
+        "quantity": 50
+    }
+]

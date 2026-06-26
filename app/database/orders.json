@@ -1,0 +1,119 @@
+[
+    {
+        "order_id": "ORD74244",
+        "seat_id": "T1",
+        "staff_id": "STAFF2862",
+        "timestamp": "2026-06-20 17:52:13",
+        "items": [
+            {
+                "name": "Ras Malai (2 pcs)",
+                "price": 245.0,
+                "qty": 2
+            }
+        ],
+        "subtotal": 490.0,
+        "gst": 24.5,
+        "total": 514.5,
+        "status": "COMPLETED",
+        "payment": {
+            "final_amount": 514.5,
+            "date": "2026-06-20 17:52:13",
+            "mode": "UPI"
+        }
+    },
+    {
+        "order_id": "ORD58845",
+        "seat_id": "T4",
+        "staff_id": "STAFF2862",
+        "timestamp": "2026-06-20 17:55:44",
+        "items": [
+            {
+                "name": "Chicken 65",
+                "price": 545.0,
+                "qty": 4
+            }
+        ],
+        "subtotal": 2180.0,
+        "gst": 109.0,
+        "total": 2289.0,
+        "status": "COMPLETED",
+        "payment": {
+            "final_amount": 2289.0,
+            "date": "2026-06-20 17:55:17",
+            "mode": "CASH",
+            "received": 2289.0,
+            "change": 0.0
+        }
+    },
+    {
+        "order_id": "ORD83281",
+        "seat_id": "T5",
+        "staff_id": "STAFF2862",
+        "timestamp": "2026-06-22 07:54:34",
+        "items": [
+            {
+                "name": "Coca Cola (300ml)",
+                "price": 125.0,
+                "qty": 2
+            }
+        ],
+        "subtotal": 250.0,
+        "gst": 12.5,
+        "total": 262.5,
+        "status": "COMPLETED",
+        "payment": {
+            "final_amount": 262.5,
+            "date": "2026-06-22 07:54:34",
+            "mode": "CARD"
+        }
+    },
+    {
+        "order_id": "ORD23150",
+        "seat_id": "T6",
+        "staff_id": "STAFF2862",
+        "timestamp": "2026-06-22 21:10:28",
+        "items": [
+            {
+                "name": "Paneer Butter Masala",
+                "price": 645.0,
+                "qty": 2
+            },
+            {
+                "name": "Paneer Butter Masala",
+                "price": 645.0,
+                "qty": 4
+            }
+        ],
+        "subtotal": 3870.0,
+        "gst": 193.5,
+        "total": 4063.5,
+        "status": "COMPLETED",
+        "payment": {
+            "final_amount": 4063.5,
+            "date": "2026-06-22 21:10:28",
+            "mode": "CARD"
+        }
+    },
+    {
+        "order_id": "ORD45048",
+        "seat_id": "T6",
+        "staff_id": "STAFF2862",
+        "timestamp": "2026-06-26 14:56:54",
+        "items": [
+            {
+                "name": "Ras Malai (2 pcs)",
+                "price": 245.0,
+                "qty": 3
+            }
+        ],
+        "subtotal": 735.0,
+        "gst": 36.75,
+        "total": 771.75,
+        "status": "COMPLETED",
+        "payment": {
+            "final_amount": 771.75,
+            "date": "2026-06-26 14:56:54",
+            "mode": "UPI"
+        }
+    }
+]

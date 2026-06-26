@@ -1,0 +1,24 @@
+[
+    {
+        "uid": "ADM1846",
+        "name": "Aditi",
+        "phone": "6398882739",
+        "email": "aditi123@gmail.com",
+        "password": "adititiw",
+        "role": "admin",
+        "address": "Aligarh",
+        "department": "Management",
+        "experience": "2 Years"
+    },
+    {
+        "uid": "STAFF2862",
+        "name": "Vaishu",
+        "phone": "4595454545",
+        "email": "adi@gmail.com",
+        "password": "aditi565",
+        "role": "staff",
+        "address": "aligarh",
+        "department": "Service",
+        "experience": "4 Years"
+    }
+]

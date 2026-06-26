@@ -1,0 +1,290 @@
+[
+    {
+        "id": 1,
+        "name": "Paneer Tikka",
+        "price": 495.0,
+        "category": "Appetizers",
+        "has_portion": false,
+        "is_available": true
+    },
+    {
+        "id": 2,
+        "name": "Chicken 65",
+        "price": 545.0,
+        "category": "Appetizers",
+        "has_portion": false,
+        "is_available": true
+    },
+    {
+        "id": 3,
+        "name": "Spring Rolls",
+        "price": 395.0,
+        "category": "Appetizers",
+        "has_portion": false,
+        "is_available": true
+    },
+    {
+        "id": 4,
+        "name": "Paneer Butter Masala",
+        "price": 645.0,
+        "category": "Main Course",
+        "has_portion": true,
+        "is_available": true
+    },
+    {
+        "id": 5,
+        "name": "Kadhai Paneer",
+        "price": 625.0,
+        "category": "Main Course",
+        "has_portion": true,
+        "is_available": true
+    },
+    {
+        "id": 6,
+        "name": "Butter Chicken",
+        "price": 795.0,
+        "category": "Main Course",
+        "has_portion": true,
+        "is_available": true
+    },
+    {
+        "id": 7,
+        "name": "Dal Makhani",
+        "price": 495.0,
+        "category": "Main Course",
+        "has_portion": true,
+        "is_available": true
+    },
+    {
+        "id": 8,
+        "name": "Mix Veg",
+        "price": 445.0,
+        "category": "Main Course",
+        "has_portion": true,
+        "is_available": true
+    },
+    {
+        "id": 9,
+        "name": "Malai Kofta",
+        "price": 695.0,
+        "category": "Main Course",
+        "has_portion": true,
+        "is_available": true
+    },
+    {
+        "id": 10,
+        "name": "Veg Hyderabadi Biryani",
+        "price": 545.0,
+        "category": "Main Course",
+        "has_portion": true,
+        "is_available": true
+    },
+    {
+        "id": 11,
+        "name": "Chicken Biryani",
+        "price": 695.0,
+        "category": "Main Course",
+        "has_portion": true,
+        "is_available": true
+    },
+    {
+        "id": 12,
+        "name": "Butter Naan",
+        "price": 125.0,
+        "category": "Sides",
+        "has_portion": false,
+        "is_available": true
+    },
+    {
+        "id": 13,
+        "name": "Garlic Naan",
+        "price": 145.0,
+        "category": "Sides",
+        "has_portion": false,
+        "is_available": true
+    },
+    {
+        "id": 14,
+        "name": "Tandoori Roti",
+        "price": 65.0,
+        "category": "Sides",
+        "has_portion": false,
+        "is_available": true
+    },
+    {
+        "id": 15,
+        "name": "Lachha Paratha",
+        "price": 115.0,
+        "category": "Sides",
+        "has_portion": false,
+        "is_available": true
+    },
+    {
+        "id": 16,
+        "name": "Jeera Rice",
+        "price": 295.0,
+        "category": "Sides",
+        "has_portion": true,
+        "is_available": true
+    },
+    {
+        "id": 17,
+        "name": "Steamed Rice",
+        "price": 245.0,
+        "category": "Sides",
+        "has_portion": true,
+        "is_available": true
+    },
+    {
+        "id": 18,
+        "name": "Veg Noodles",
+        "price": 345.0,
+        "category": "Sides",
+        "has_portion": true,
+        "is_available": true
+    },
+    {
+        "id": 19,
+        "name": "Chilli Paneer",
+        "price": 495.0,
+        "category": "Sides",
+        "has_portion": true,
+        "is_available": true
+    },
+    {
+        "id": 20,
+        "name": "Manchurian Dry",
+        "price": 445.0,
+        "category": "Sides",
+        "has_portion": true,
+        "is_available": true
+    },
+    {
+        "id": 21,
+        "name": "Premium Veg Combo",
+        "price": 1095.0,
+        "category": "Combos",
+        "has_portion": false,
+        "is_available": true
+    },
+    {
+        "id": 22,
+        "name": "Premium Non-Veg Combo",
+        "price": 1295.0,
+        "category": "Combos",
+        "has_portion": false,
+        "is_available": true
+    },
+    {
+        "id": 23,
+        "name": "Royal Veg Thali",
+        "price": 1495.0,
+        "category": "Combos",
+        "has_portion": false,
+        "is_available": true
+    },
+    {
+        "id": 24,
+        "name": "Royal Non-Veg Thali",
+        "price": 1795.0,
+        "category": "Combos",
+        "has_portion": false,
+        "is_available": true
+    },
+    {
+        "id": 25,
+        "name": "Masala Chai",
+        "price": 145.0,
+        "category": "Desserts & Beverages",
+        "has_portion": false,
+        "is_available": true
+    },
+    {
+        "id": 26,
+        "name": "Cold Coffee",
+        "price": 245.0,
+        "category": "Desserts & Beverages",
+        "has_portion": false,
+        "is_available": true
+    },
+    {
+        "id": 27,
+        "name": "Coca Cola (300ml)",
+        "price": 125.0,
+        "category": "Desserts & Beverages",
+        "has_portion": false,
+        "is_available": true
+    },
+    {
+        "id": 28,
+        "name": "Sprite (300ml)",
+        "price": 125.0,
+        "category": "Desserts & Beverages",
+        "has_portion": false,
+        "is_available": true
+    },
+    {
+        "id": 29,
+        "name": "Premium Mineral Water (1L)",
+        "price": 145.0,
+        "category": "Desserts & Beverages",
+        "has_portion": false,
+        "is_available": true
+    },
+    {
+        "id": 30,
+        "name": "Sparkling Water (500ml)",
+        "price": 195.0,
+        "category": "Desserts & Beverages",
+        "has_portion": false,
+        "is_available": true
+    },
+    {
+        "id": 31,
+        "name": "Vanilla Bean Ice Cream",
+        "price": 225.0,
+        "category": "Desserts & Beverages",
+        "has_portion": false,
+        "is_available": true
+    },
+    {
+        "id": 33,
+        "name": "Strawberry Gelato",
+        "price": 275.0,
+        "category": "Desserts & Beverages",
+        "has_portion": false,
+        "is_available": true
+    },
+    {
+        "id": 34,
+        "name": "Gulab Jamun (2 pcs)",
+        "price": 195.0,
+        "category": "Desserts & Beverages",
+        "has_portion": false,
+        "is_available": true
+    },
+    {
+        "id": 35,
+        "name": "Ras Malai (2 pcs)",
+        "price": 245.0,
+        "category": "Desserts & Beverages",
+        "has_portion": false,
+        "is_available": true
+    },
+    {
+        "id": 36,
+        "name": "Hakka Noodles",
+        "price": 395.0,
+        "category": "Sides",
+        "has_portion": true,
+        "is_available": true
+    },
+    {
+        "id": 37,
+        "name": "Pizza",
+        "price": 399.0,
+        "category": "Sides",
+        "has_portion": false,
+        "is_available": true
+    }
+]
