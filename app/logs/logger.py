@@ -1,3 +1,5 @@
+import datetime
+
 def write_logs(data):
     
     with open("order.txt", 'a') as file:

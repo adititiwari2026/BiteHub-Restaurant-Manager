@@ -124,7 +124,7 @@ class StaffPanel:
                         
                         rel = input(f"Release Table {table_id}? (y/n): ").lower()
                         if rel == 'y':
-                            self.table_mgr.release_table(table_id)
+                            self.table_mgr.reset_table(table_id)  # <--- FIXED HERE
                             print(f"Table {table_id} is now FREE.")
                         break
                 else:
@@ -171,4 +171,3 @@ class StaffPanel:
         print("-" * 30)
         print(f"Total Paid: ₹{order['total']:.2f}")
         print("="*30 + "\n")
-

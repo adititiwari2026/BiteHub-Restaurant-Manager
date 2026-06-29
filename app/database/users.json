@@ -20,5 +20,16 @@
         "address": "aligarh",
         "department": "Service",
         "experience": "4 Years"
+    },
+    {
+        "uid": "STAFF3538",
+        "name": "Radha",
+        "phone": "9767679565",
+        "email": "radha@gmail.com",
+        "password": "97979797",
+        "role": "staff",
+        "address": "aligarh",
+        "department": "Service",
+        "experience": "2 Years"
     }
 ]
