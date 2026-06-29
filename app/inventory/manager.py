@@ -139,3 +139,5 @@ class InventoryManager:
             except Exception as e:
                 print(f"  Error updating inventory after order: {e}")
                 return False
+
+                

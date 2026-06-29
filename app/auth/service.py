@@ -17,7 +17,7 @@ class AuthService:
         Collects user data, validates it, generates a unique Staff ID, 
         and saves the record to the database.
         """
-        print("\n----- STAFF SIGNUP -----")
+        print("----- STAFF SIGNUP -----")
         
         try:
             name = Validator.get_valid_name()
@@ -26,7 +26,7 @@ class AuthService:
             
             users_data = FileManager.load_data(DatabaseConnectionModel.USER_DATA)
             
-            # Check if email is already registered
+            
             for user in users_data:
                 if user['email'] == email:
                     print("This Email is already registered! Please Login.")

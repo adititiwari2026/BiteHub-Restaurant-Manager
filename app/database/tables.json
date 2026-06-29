@@ -16,9 +16,9 @@
     {
         "id": "T3",
         "seats": 4,
-        "is_free": true,
-        "exp": null,
-        "occupied": 0
+        "is_free": false,
+        "exp": "2026-06-29 19:23:50",
+        "occupied": 3
     },
     {
         "id": "T4",

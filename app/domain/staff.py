@@ -49,19 +49,27 @@ class StaffPanel:
         if c == 2: return
         
         table_id = input("Enter Table ID (e.g., T1): ").strip().upper()
-        current_table = next((t for t in tables if t['id'] == table_id), None)
+        current_table = next((t for t in tables if str(t.get('id', '')) == table_id), None) # <-- Made robust
         
         if not current_table:
-            print(">> Invalid Table ID!")
+            print(f">> Invalid Table ID! '{table_id}' not found.")
             return
 
         if current_table['is_free']:
             confirm = input(f"Book Table {table_id} for customer? (y/n): ").lower()
             if confirm == 'y':
-                success, msg = self.table_mgr.book_table(table_id)
-                print(f">> {msg}")
-                if success:
-                    self.take_order(table_id)
+                try:
+                    # FIX: We need to ask for seats or default to the table's capacity
+                    seats_needed = int(input("Enter seats required: "))
+                    # FIX: table_mgr.book_table requires table_id AND seats_needed
+                    success, msg = self.table_mgr.book_table(table_id, seats_needed)
+                    print(f">> {msg}")
+                    if success:
+                        self.take_order(table_id)
+                except ValueError:
+                    print(">> Invalid number for seats.")
+                except Exception as e:
+                     print(f">> Error during booking: {e}")
         else:
             print(f"\nTable {table_id} is currently OCCUPIED.")
             print("1. Add items to order / Generate Bill")

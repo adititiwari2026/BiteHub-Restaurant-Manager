@@ -71,7 +71,7 @@ class AdminPanel:
                         else:
                             status_display = "⚪ Unknown"
 
-                        print(f"{t_id:<8} | {cap:<7} | {occ:<8} | {free:<6} | {status_display}")
+                print(f"{t_id:<8} | {cap:<7} | {occ:<8} | {free:<6} | {status_display}")
 
                 print("-" * 60)
                 print("\n1. Book a Table")
@@ -140,7 +140,6 @@ class AdminPanel:
                     # 🛠️ FIX: Removed self.admin_user parameter
                     self.menu_mgr.add_food_item()
                 elif choice == 2: 
-                    # 🛠️ FIX: Removed self.admin_user parameter
                     self.menu_mgr.remove_food_item()
                 elif choice == 3: 
                     self.menu_mgr.view_menu()

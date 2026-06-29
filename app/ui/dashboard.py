@@ -41,7 +41,7 @@ class Dashboard:
                     print("Invalid Choice! Please select a valid option.")
 
             except Exception as e:
-                # Ye nayi line add karein taaki asli error dikhe
+                
                 print(f"System Crash Error: {e}") 
                 print("An unexpected error occurred. Restarting Dashboard...")
 
@@ -65,7 +65,7 @@ class Dashboard:
                         staff_panel = StaffPanel(user)
                         staff_panel.dashboard()
                     except Exception as e:
-                        print(">> Failed to load Staff Panel.")
+                        print(f">> Failed to load Staff Panel. Error: {e}")
 
                 else:
                     print(f">> Unknown Role: {user.role}. Contact System Admin.")
